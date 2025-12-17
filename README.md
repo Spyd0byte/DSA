@@ -3,7 +3,12 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1MjO1DS-0JZUKsDpjVBVkv4PMX9KxlDI3/view?usp=drive_link">
-    <strong>📥 Download Complete DSA Notes (PDF)</strong>
+    <strong>📥 Download C++ DSA Notes (PDF)</strong>
+  </a>
+</p> 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1qu6CKHl7qHWJMCj1yMJ1KCmXAAnmTW9X/view?usp=drive_link">
+    <strong>📥 Download Python DSA Notes (PDF)</strong>
   </a>
 </p>
 
